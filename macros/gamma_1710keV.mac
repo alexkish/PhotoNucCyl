@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/neutronlab/gun/particle gamma
+/neutronlab/gun/energy 1710 keV
+
+/neutronlab/gun/type Point
+/neutronlab/gun/angtype iso
+/neutronlab/gun/center 0 0 0 mm
+
+/run/printProgress 100000
+
+/run/beamOn 1000000
